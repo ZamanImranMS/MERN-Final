@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "Name": "Ali",
+      "Sex": "Male",
+      "Place": "Budapest",
+      "Dateofbirth": "21.6.1998",
+      "group": "Biologists"
+    },
+    {
+      "id": 2,
+      "Name": "Ahmad",
+      "Sex": "Male",
+      "Place": "Budapest",
+      "Dateofbirth": "21.6.1998",
+      "group": "Biologists"
+    }
+  ]
+}
